@@ -1,4 +1,4 @@
-const ANTHROPIC_KEY = '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'
+const ANTHROPIC_KEY = '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'
 
 const SYSTEM_PROMPT = `You are a senior Customer Success analyst at Recruiterflow, an AI-native ATS & CRM platform for recruiting agencies. You have access to Amplitude analytics via MCP tools.
 
