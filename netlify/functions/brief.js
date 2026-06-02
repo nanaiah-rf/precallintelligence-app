@@ -1,4 +1,4 @@
-const ANTHROPIC_KEY = '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'
+const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY
 const AMP_API_KEY = '4d66f09fc0b48bf4f19182900e3276f5'
 const AMP_SECRET = 'e8a3aca485af13d0491fd3ca16a1f4e8'
 
